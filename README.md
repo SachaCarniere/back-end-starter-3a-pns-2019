@@ -24,5 +24,3 @@ Note: The linter will be executed before each commit. If the linter fails then t
 The following libraries are used in this Node starter, we encourage you to have a look :
 - Express (for building the http API) : https://www.npmjs.com/package/express
 - Joi (for Schema validation) : https://www.npmjs.com/package/joi
-
-ooo
